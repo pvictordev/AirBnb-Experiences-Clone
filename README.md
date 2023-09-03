@@ -1,2 +1,2 @@
 # AirBnb Experiences Clone
-## AirBnb Experiences Clone made using React
+## AirBnb Experiences Clone made 
